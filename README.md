@@ -3,6 +3,8 @@
 -Install Node.js and npm
 -Set up a code editor (e.g., VS Code)
 -Install and configure React Developer Tools
+
+
 2.Understanding React and Its Ecosystem
 -Learn how React simplifies web and app development
 -Explore the React ecosystem (React Router, Redux, etc.)
